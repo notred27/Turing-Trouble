@@ -5,7 +5,7 @@
 [Hackathon DevPost Here](https://devpost.com/software/turing-trouble)
 
 ## Introduction
-From some of the same minds that brought you (critically acclaimed) 2-Tris, we show you Turing Trouble™. <br>
+From (some of) the same minds that brought you (critically acclaimed) 2-Tris, we show you Turing Trouble™. <br>
 
 In a world where Alan is stuck on a Multi-Tape Turing machine, you must guide our hero to victory by making the correct transition functions. Use our game to learn about simple transition functions and HAVE FUN!
 
