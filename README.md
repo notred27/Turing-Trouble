@@ -22,4 +22,14 @@ Drag the different blocks from the SHOP into the corresponding places of the sam
 We would like to add states that change based on SEE to further draw similarities between this game and actual Turing Machines. Due to lack of time, however, we had to go for a more streamlined approach.
 
 ## Game Screenshots
+![](Assets/Sprites/Main.png)
+![](Assets/Sprites/HowTo.png)
+![](Assets/Sprites/Levels.png)
+![](Assets/Sprites/Level.png)
+![](Assets/Sprites/Credits.png)
+
+
+
+
+
 
