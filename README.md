@@ -25,7 +25,7 @@ We would like to add states that change based on SEE to further draw similaritie
 ![](Assets/Sprites/Main.png)
 ![](Assets/Sprites/HowTo.png)
 ![](Assets/Sprites/Levels.PNG)
-![](Assets/Sprites/Level.png)
+![](Assets/Sprites/Level.PNG)
 ![](Assets/Sprites/CreditsEnd.png)
 
 
