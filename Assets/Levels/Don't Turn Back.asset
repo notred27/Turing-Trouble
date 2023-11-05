@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a95e362a5695dc4496a0286ccad6ef3, type: 3}
+  m_Name: Don't Turn Back
+  m_EditorClassIdentifier: 
+  LevelName: Don't Turn Back
+  TopTape:
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: ef0629f2a3f6956458d944a78682f5af, type: 3}
+  - {fileID: 1106221778761177611, guid: ef0629f2a3f6956458d944a78682f5af, type: 3}
+  - {fileID: 1106221778761177611, guid: 7d4831729142a9d42ad8e714709e4c77, type: 3}
+  - {fileID: 1106221778761177611, guid: ef0629f2a3f6956458d944a78682f5af, type: 3}
+  MidTape:
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: bfe7fac6b00bdc940ba1aa340b0bba85, type: 3}
+  - {fileID: 1106221778761177611, guid: bfe7fac6b00bdc940ba1aa340b0bba85, type: 3}
+  - {fileID: 1106221778761177611, guid: ef0629f2a3f6956458d944a78682f5af, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  BotTape:
+  - {fileID: 1106221778761177611, guid: d364a7e50a141ef49aff6a581a00b646, type: 3}
+  - {fileID: 1106221778761177611, guid: 66ca830d2a4a6c34fb5cca9b3b29b6b8, type: 3}
+  - {fileID: 1106221778761177611, guid: 14b84634174e6f34cb548243c131a67f, type: 3}
+  - {fileID: 1106221778761177611, guid: bfe7fac6b00bdc940ba1aa340b0bba85, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  SeeItemList:
+  - {fileID: 4276374760706631790, guid: a1f5697c2008313478b70716148bb2a8, type: 3}
+  - {fileID: 4276374760706631790, guid: b92b99a4ac6338744b2d37795e91252e, type: 3}
+  - {fileID: 4276374760706631790, guid: 7e87940f2aeba4e4590d7839db4b9491, type: 3}
+  SeeCostList: 010000000200000003000000
+  DoItemList:
+  - {fileID: 4276374760706631790, guid: 06cc092f5d5df8f42851643850eb310e, type: 3}
+  - {fileID: 4276374760706631790, guid: 9b7df19f8bd7ffa4b9da751675463506, type: 3}
+  - {fileID: 4276374760706631790, guid: a8f654952638847478bd5eeda16eeb5f, type: 3}
+  DoCostList: 010000000200000004000000
+  Budget: 13
+  MaxMoves: 13
+  MaxBlocks: 4

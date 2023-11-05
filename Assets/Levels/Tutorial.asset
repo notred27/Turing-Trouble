@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a95e362a5695dc4496a0286ccad6ef3, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  LevelName: 
+  TopTape: []
+  MidTape:
+  - {fileID: 1106221778761177611, guid: d2b724c150772c340a1fbc048d6b62c0, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: d4e41823bc5189e4ab8f528954473326, type: 3}
+  - {fileID: 1106221778761177611, guid: d364a7e50a141ef49aff6a581a00b646, type: 3}
+  BotTape: []
+  SeeItemList:
+  - {fileID: 4276374760706631790, guid: a1f5697c2008313478b70716148bb2a8, type: 3}
+  SeeCostList: 01000000
+  DoItemList:
+  - {fileID: 4276374760706631790, guid: 9b7df19f8bd7ffa4b9da751675463506, type: 3}
+  DoCostList: 01000000
+  Budget: 2
+  MaxMoves: 10
+  MaxBlocks: 2
