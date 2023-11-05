@@ -7,7 +7,7 @@
 ## Introduction
 From (some of) the same minds that brought you (critically acclaimed) 2-Tris, we present **Turing Trouble**™. <br>
 
-In a world where Alan is stuck on a Multi-Tape Turing machine, you must guide our hero to victory by making the correct transition functions. Use our game to learn about simple transition functions and HAVE FUN!
+In a world where Alan is stuck on a Multi-Tape Turing machine, only you can guide our hero to victory by making the correct transition functions. Use our game to learn about simple transition functions and HAVE FUN!
 
 ## Code Description
 Coded in C# using Unity by Tiago Davies, and Michael Reidy. We created a modular design for levels by using Scriptable Objects (Unity built in data container) to define the crucial information of each level. From there we dynamically load the information into GameObjects that appear on your screens! This made our level making extremely simple as everything is abstracted away, and making a new level is as simple as setting a few fields in the Unity Editor.
