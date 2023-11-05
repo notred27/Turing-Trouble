@@ -1,7 +1,6 @@
-# Turing-Trouble
+![](Assets/Sprites/BannerTM.png)
 
-## Try it out on itch.io !
-[Link Here!](https://tdavies.itch.io/turing-trouble)
+[Play on Itch.io Here](https://tdavies.itch.io/turing-trouble)
+[Hackathon DevPost Here](https://devpost.com/software/turing-trouble)
 
-## Look at our dev post !
-[Link Here!](https://devpost.com/software/turing-trouble)
+
